@@ -37,5 +37,4 @@ I'm a Master Graduate in Computer Science and Engineering from Kumaraguru Colleg
 - Image Recognition using TensorFlow.
 - Cloud Architecture using AWS, Firebase.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lttesp.lttesp)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lttesp.lttesp)
