@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Prabhakaran M</h1>
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/lttesp?label=Prabhakaran%20M&style=social&link=https://www.twitter.com/lttesp)](https://twitter.com/prabhakar711) 
+[![Twitter Badge](https://img.shields.io/twitter/follow/lttesp?label=Prabhakaran%20M&style=social&link=https://www.twitter.com/prabhakar_711)](https://twitter.com/prabhakar_711) 
 [![Linkedin: Prabhakaran](https://img.shields.io/badge/Prabhakaran_M-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhakar711/)](https://www.linkedin.com/in/prabhakar711/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/lttesp?label=follow&style=social)](https://github.com/prabhakar711)
 
